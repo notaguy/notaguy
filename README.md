@@ -1,6 +1,6 @@
 
-### Hi there 👋, my name is Arturs
-“Try not to become a man of success. Rather become a man of value.”
+## Hi there 👋, I am Nico
+#“Try not to become a man of success. Rather become a man of value.”
 
 
 
@@ -13,5 +13,5 @@
 
 
 - 📫 Gmail: nicoleta-gabriela.barcan@student.tuiasi.ro
-- ⚡ My resume
+
 
