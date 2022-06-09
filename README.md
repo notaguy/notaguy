@@ -13,5 +13,5 @@
 
 
 - 📫 Gmail: nicoleta-gabriela.barcan@student.tuiasi.ro
-- ⚡ My resume []
+- ⚡ My resume
 
